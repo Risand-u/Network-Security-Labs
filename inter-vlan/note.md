@@ -14,7 +14,6 @@ Using Router on a Stick method.
 One cable between switch and router
 carries all VLAN traffic!
 
-
 ---
 
 ## Network Layout
