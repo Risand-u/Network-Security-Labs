@@ -4,7 +4,7 @@
    
 This is my practical networking lab repository.
 Every folder is a real project I built using
-Cisco Packet Tracer step by step. 
+Cisco Packet Tracer step by step.  
        
 ---      
   
