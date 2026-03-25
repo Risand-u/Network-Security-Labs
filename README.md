@@ -28,7 +28,7 @@ Cisco Packet Tracer step by step.
 - 🔲 Port Security 
 - 🔲 Wireless network setup 
 
----
+--- 
 
 ## Tools Used
 - Cisco Packet Tracer
