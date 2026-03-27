@@ -18,7 +18,7 @@ Cisco Packet Tracer step by step.
 - ✅ Basic ping testing
 - ✅ Subnetting
 - ✅ DHCP
-- ✅ DNS basics
+- ✅ DNS basics 
 - ✅ 1st stage revison
  
 - ✅ Static and Dynamic Routing (OSPF)
